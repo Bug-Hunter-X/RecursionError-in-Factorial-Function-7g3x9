@@ -1,0 +1,1 @@
+This repository demonstrates a common error in recursive functions: the RecursionError in Python. The `bug.py` file contains a factorial function that does not handle negative inputs, causing a stack overflow error when called with a negative number. The `bugSolution.py` file provides a corrected version of the function that gracefully handles negative inputs.
